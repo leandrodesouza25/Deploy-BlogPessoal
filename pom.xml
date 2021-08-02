@@ -15,7 +15,7 @@
 	<name>ProjetoBlog</name>
 	<description>Blog Pessoal</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>15</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -53,11 +53,11 @@
 			<artifactId>springfox-boot-starter</artifactId>
 			<version>3.0.0</version>
 		</dependency>
-		  <dependency>
+		 <!--   <dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
-		</dependency> 
+		</dependency>  -->
 
 		    <dependency> 
 			<groupId>org.postgresql</groupId>
